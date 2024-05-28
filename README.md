@@ -9,11 +9,13 @@ This is my "cookbook" of various scripts, tidbits of knowledge, and other stuff 
 I've cobbled together and re-use constantly or rarely. These are either easy-to-understand 
 "recipes" for doing something or a quick summary explainer about something.
 
-There are a few parts to this "cookbook".
+If you're looking at this in May 2024, I'm just starting on stuff.
+
+There are a few parts to this "cookbook":
 
 ActivitySim: Recipes that are specific to ActivitySim.
 
-Biogeme: Recipes that are specific to Biogeme.
+[Biogeme](Biogeme): Recipes that are specific to Biogeme.
 
 Data Input and Output: Recipes about getting transportation data into or out 
 of Python or R.
@@ -22,9 +24,9 @@ Data Manipulation: Recipes to Prepare or Manipulate Data
 
 Data Analysis: Recipes for analysis of data
 
-Data Visualization: Recipes for the presentation of data and analysis
+[Data Visualization](DataVis): Recipes for the presentation of data and analysis
 
-Geopandas: Recipes using Geopandas to prepare data for geographic analysis or do geoprocessing.
+[Geopandas](Geopandas): Recipes using Geopandas to prepare data for geographic analysis or do geoprocessing.
 
 Machine Learning: Recipes using machine learning that isn't as common in travel demand modeling.
 
